@@ -1,1 +1,1 @@
-alert("my first external transcript");
+console.log("my first external transcript");
